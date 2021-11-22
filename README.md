@@ -22,13 +22,13 @@ We would like you to build a frontend single-page application, using any modern 
 
 - A user should be able to view a grid of their recently played tracks.
     - This should include a relevant image for each track.
-    - When scrolling, it should fetch more results & display them.
     
 - In a sidebar, a user should be able to view a list of all recently played artists.
     - This should be in order of most recently played.
     - On click of an artist, the grid of recently played tracks should be filtered by the relevant artist.
     - On refresh of the page, any applied filter should be persisted.
 
+### Bonus
 - The displayed data should automatically update when a user listens to a new track (within 30 seconds).
 
 Please include a README detailing how we can run your submission, the trade-offs you made, and how you'd improve on your submission.
